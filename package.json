@@ -1,0 +1,23 @@
+{
+  "name": "practice-5",
+  "version": "1.0.0",
+  "description": "Practice-5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UzVPD/Practice-5-com.388.git"
+  },
+  "author": "Vladislav Pak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UzVPD/Practice-5-com.388/issues"
+  },
+  "homepage": "https://github.com/UzVPD/Practice-5-com.388#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
